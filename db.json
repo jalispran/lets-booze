@@ -1,4 +1,5 @@
-[
+{
+	list: [
 	{
 		"title": "Antiquity Blue",
 		"price": 500,
@@ -10,3 +11,4 @@
 		"description": "Best brand" 
 	}
 ]
+}
