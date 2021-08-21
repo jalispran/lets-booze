@@ -1,16 +1,14 @@
-{
-   "list":[
+[
       {
-         "id": 1,
+         "id": "1",
          "title":"Antiquity Blue",
          "price":500,
          "description":"Best brand"
       },
       {
-         "id": 2,
+         "id": "2",
          "title":"Jack Daniels",
          "price":1500,
          "description":"Best brand"
       }
    ]
-}
