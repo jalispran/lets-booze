@@ -3,12 +3,14 @@
          "id": "1",
          "title":"Antiquity Blue",
          "price":500,
-         "description":"Best brand"
+         "description":"Best brand",
+          "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBfPHG9uONCEZO2Dr_twYpqJTfJHbZuFhcQ&usqp=CAU"
       },
       {
          "id": "2",
          "title":"Jack Daniels",
          "price":1500,
-         "description":"Best brand"
+         "description":"Best brand",
+         "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBfPHG9uONCEZO2Dr_twYpqJTfJHbZuFhcQ&usqp=CAU"
       }
    ]
