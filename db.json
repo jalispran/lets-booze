@@ -2,15 +2,29 @@
       {
          "id": "1",
          "title":"Antiquity Blue",
-         "price":500,
+         "price":1500,
          "description":"Best brand",
           "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBfPHG9uONCEZO2Dr_twYpqJTfJHbZuFhcQ&usqp=CAU"
       },
       {
          "id": "2",
          "title":"Jack Daniels",
-         "price":1500,
+         "price":1800,
          "description":"Best brand",
-         "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBfPHG9uONCEZO2Dr_twYpqJTfJHbZuFhcQ&usqp=CAU"
+         "url":"https://st2.depositphotos.com/5648852/8241/i/950/depositphotos_82411612-stock-photo-jack-daniels-whiskey-bottle-and.jpg"
+      },
+      {
+         "id": "3",
+         "title":"Teachers",
+         "price":1300,
+         "description":"Best brand",
+         "url":"https://www.wine-searcher.com/images/labels/06/30/10440630.jpg"
+      },
+      {
+         "id": "4",
+         "title":"Blenders Pride",
+         "price":1100,
+         "description":"Best brand",
+         "url":"https://www.bigbasket.com/media/uploads/p/xxl/40198421-2_3-blenders-pride-select-premium-whisky.jpg"
       }
    ]
