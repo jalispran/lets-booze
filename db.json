@@ -1,57 +1,58 @@
 [
-      {
-         "id": "1",
-         "title":"Antiquity Blue",
-         "price":1120,
-         "description":"Best brand",
-          "url":"https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/256/256/true/eyJpZCI6IjQ0YzI1OTI2ZThhOWZkYWU4YTc3OWM2NTUzNTc1NjJkIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=fcaeedac1a9dada353f56db9c10e418fab6e57949fea43410dc2ebba35868e98"
-      {
-         "id": "2",
-         "title":"Jack Daniels",
-         "price":4980,
-         "description":"Best brand",
-         "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo236weslCZ9CbweG9y6ahZPKPn0lqKeZarw&usqp=CAU"
-      },
-      {
-         "id": "3",
-         "title":"Teachers",
-         "price":2039,
-         "description":"Best brand",
-            "url":"https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00080686805205/1e961bd20ba731122b7ad2c4348c69a2_large.png&width=256&type=webp&quality=80"
-      },
-      {
-         "id": "4",
-         "title":"Blenders Pride",
-         "price":1300,
-         "description":"Best brand",
-         "url":"https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/256/256/true/eyJpZCI6IjAzYzRhMjFkMWI4YjQ0MWViYmEwNTc1YmY5NjM4YTk4Iiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=e660dda6ee6985f4b6d72c43ecf87d45a8a139d7a1ea7f4023beed339fc71c24"
-      }
-        {
-         "id": "5",
-         "title":"glenfiddich",
-         "price":5800,
-         "description":"Best brand",
-         "url":"https://media.glenfiddich.com/assets/Uploads/Flagship2019/Glenfiddich-12-Year-Old-Bottle.jpg"
-      }
-        {
-         "id": "6",
-         "title":"Ballantine",
-         "price":7100,
-         "description":"Best brand",
-         "url":"https://dydza6t6xitx6.cloudfront.net/ci-ballantines-scotch-whiskey-7f7a4070eb1c8795.png"
-      }
-        {
-         "id": "7",
-         "title":"Chivas Regal",
-         "price":2800,
-         "description":"Best brand",
-         "url":"http://www.epagesdemo.de/WebRoot/epages/Shops/epages101/5654/5081/5B3E/FC06/87FE/0A0C/05E6/A4AC/Chivas_ml.jpg"
-      }
-        {
-         "id": "8",
-         "title":"Jameson Irish Whiskey",
-         "price":2605,
-         "description":"Best brand",
-         "url":"https://img.thewhiskyexchange.com/900/irish_jam1.jpg"
-        }
-   ]
+   {
+      "id":"1",
+      "title":"Antiquity Blue",
+      "price":1120,
+      "description":"Best brand",
+      "url":"https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/256/256/true/eyJpZCI6IjQ0YzI1OTI2ZThhOWZkYWU4YTc3OWM2NTUzNTc1NjJkIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=fcaeedac1a9dada353f56db9c10e418fab6e57949fea43410dc2ebba35868e98"
+   },
+   {
+      "id":"2",
+      "title":"Jack Daniels",
+      "price":4980,
+      "description":"Best brand",
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo236weslCZ9CbweG9y6ahZPKPn0lqKeZarw&usqp=CAU"
+   },
+   {
+      "id":"3",
+      "title":"Teachers",
+      "price":2039,
+      "description":"Best brand",
+      "url":"https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00080686805205/1e961bd20ba731122b7ad2c4348c69a2_large.png&width=256&type=webp&quality=80"
+   },
+   {
+      "id":"4",
+      "title":"Blenders Pride",
+      "price":1300,
+      "description":"Best brand",
+      "url":"https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/256/256/true/eyJpZCI6IjAzYzRhMjFkMWI4YjQ0MWViYmEwNTc1YmY5NjM4YTk4Iiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=e660dda6ee6985f4b6d72c43ecf87d45a8a139d7a1ea7f4023beed339fc71c24"
+   },
+   {
+      "id":"5",
+      "title":"glenfiddich",
+      "price":5800,
+      "description":"Best brand",
+      "url":"https://media.glenfiddich.com/assets/Uploads/Flagship2019/Glenfiddich-12-Year-Old-Bottle.jpg"
+   },
+   {
+      "id":"6",
+      "title":"Ballantine",
+      "price":7100,
+      "description":"Best brand",
+      "url":"https://dydza6t6xitx6.cloudfront.net/ci-ballantines-scotch-whiskey-7f7a4070eb1c8795.png"
+   },
+   {
+      "id":"7",
+      "title":"Chivas Regal",
+      "price":2800,
+      "description":"Best brand",
+      "url":"http://www.epagesdemo.de/WebRoot/epages/Shops/epages101/5654/5081/5B3E/FC06/87FE/0A0C/05E6/A4AC/Chivas_ml.jpg"
+   },
+   {
+      "id":"8",
+      "title":"Jameson Irish Whiskey",
+      "price":2605,
+      "description":"Best brand",
+      "url":"https://img.thewhiskyexchange.com/900/irish_jam1.jpg"
+   }
+]
