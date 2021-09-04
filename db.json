@@ -32,27 +32,27 @@
       "title":"glenfiddich",
       "price":5800,
       "description":"Best brand",
-      "url":"https://media.glenfiddich.com/assets/Uploads/Flagship2019/Glenfiddich-12-Year-Old-Bottle.jpg"
+      "url":"https://bevvyco.s3.amazonaws.com/img/drinks/uy/osuy/af8411e8a16f3824b8dce4a28f46a72b-md.jpg"
    },
    {
       "id":"6",
       "title":"Ballantine",
       "price":7100,
       "description":"Best brand",
-      "url":"https://dydza6t6xitx6.cloudfront.net/ci-ballantines-scotch-whiskey-7f7a4070eb1c8795.png"
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgfely4lwCPxzjnf4I-zgNzEHF1ms7HODuw&usqp=CAU"
    },
    {
       "id":"7",
       "title":"Chivas Regal",
       "price":2800,
       "description":"Best brand",
-      "url":"http://www.epagesdemo.de/WebRoot/epages/Shops/epages101/5654/5081/5B3E/FC06/87FE/0A0C/05E6/A4AC/Chivas_ml.jpg"
+      "url":"https://www.wine-searcher.com/images/labels/05/75/11130575.jpg?width=327&height=280&fit=bounds&canvas=327,280"
    },
    {
       "id":"8",
       "title":"Jameson Irish Whiskey",
       "price":2605,
       "description":"Best brand",
-      "url":"https://img.thewhiskyexchange.com/900/irish_jam1.jpg"
+      "url":"https://ipcdn.freshop.com/resize?url=https://images.freshop.com/1564405684702807196/36e6b95abdaf5b3fdfb714abac7146e3_large.png&width=256&type=webp&quality=80"
    }
 ]
